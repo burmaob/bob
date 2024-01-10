@@ -1,8 +1,8 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "Burma Online Betting (ဘားမားအွန်လိုင်းဘတ်တင်)",
   "version": "2.1.4",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <hello+dev@svenparker.com> (https://svenparker.com)",
+  "description": "ibet789, Sports899, 555mix, Shan234",
+  "author": "ဘားမားအွန်လိုင်းဘတ်တင်",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
