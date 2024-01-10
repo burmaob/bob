@@ -1,7 +1,7 @@
 <template>
   <main>
     <section class="self-center flex flex-col flex-1 items-center justify-center">
-      <img src="icon.png" alt="logo" width="500" height="500">
+      <img src="icon.png" alt="logo" width="200" height="200">
       <h1 class="title text-center">ဘားမားအွန်လိုင်းဘတ်တင်</h1>
       <h2 class="subtitle text-center">ibet789, Sports899, 555mix, Shan234 များကို စိတ်ချယုံကြည်စွာနဲ့ ကစားနိုင်ပါတယ်</h2>
       <h3 class="subtitle text-center">09-751290444 ကို ၂၄ နာရီ
