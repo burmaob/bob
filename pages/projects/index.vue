@@ -1,7 +1,7 @@
 <template>
   <main>
     <section v-if="posts" class="w-full max-w-5xl mx-auto">
-      <h1 class="title">ဆက်သွယ်ရန်</h1>
+      <h1 class="title">Projects</h1>
       <posts post-type="projects" :amount="10" />
     </section>
   </main>
